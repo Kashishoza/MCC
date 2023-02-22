@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Kashishoza 
-YashKudve
-/
-Mobile-Computing
-Public
-Fork your own copy of YashKudve/Mobile-Computing
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Mobile-Computing/GUI/Activity_main.xml
-@YashKudve
-YashKudve All files uploaded
-Latest commit 40261db yesterday
- History
- 1 contributor
-32 lines (31 sloc)  944 Bytes
-
-
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
 android:orientation="vertical"
@@ -59,18 +29,3 @@ android:gravity="center"
 android:text="Change color"
 android:textSize="25sp" />
 </LinearLayout>
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Mobile-Computing/Activity_main.xml at main · YashKudve/Mobile-Computing
